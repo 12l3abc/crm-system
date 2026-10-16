@@ -1,0 +1,10 @@
+/.git
+.git_gitee_bak/
+/.idea
+*.log
+*.DS_Store
+/yshop-crm/target/
+/yshop-crm-vue/node_modules
+/yshop-crm-vue/node_modules_bak
+/crmdoc/
+
